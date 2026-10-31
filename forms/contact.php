@@ -2,7 +2,7 @@
 <?php
 
   // Receiving email address
-  $receiving_email_address = 'your-email@gmail.com';
+  $receiving_email_address = 'bharaths0418@gmail.com';
 
   // Load PHP Email Form library
   $php_email_form = '../assets/vendor/php-email-form/php-email-form.php';
